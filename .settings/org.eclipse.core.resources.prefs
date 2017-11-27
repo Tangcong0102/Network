@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/diao/course/bean/User.java=UTF-8
+encoding//src/main/java/com/diao/course/controller/DisprController.java=UTF-8
+encoding//src/main/java/com/diao/course/controller/InterfaceController.java=UTF-8
+encoding//src/main/java/com/diao/course/controller/ProctController.java=UTF-8
+encoding//src/main/java/com/diao/course/service/ProductService.java=UTF-8
+encoding//src/main/java/com/diao/course/service/TrxService.java=UTF-8
+encoding//src/main/java/com/diao/course/service/UserService.java=UTF-8
+encoding//src/main/java/com/diao/course/service/impl/ProductServiceImpl.java=UTF-8
+encoding//src/main/java/com/diao/course/service/impl/TrxServiceImpl.java=UTF-8
+encoding//src/main/java/com/diao/course/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/main/java/com/diao/course/servlet/MoocExceptionResolver.java=UTF-8
+encoding/<project>=UTF-8
